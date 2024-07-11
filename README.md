@@ -9,23 +9,18 @@
 
 - 🌱 I’m currently learning React and MongoDB and Python and JavaScipt. 
 - 🔭 I’m currently working on Frontend projects, Data Scienece & ML projects.
-- 🤞 A self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
-- 😎 Winner @ [ Ai unite hackathon]
+- 😎 Selected for round 2 @ [ Ai unite hackathon] [ HumanizeAi hackathon]
 
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/debraj-kar/" target="blank" > #linkdin iD
+<a href="https://www.linkedin.com/in/sounak-karan-a662a6270/" target="blank" > 
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="https://x.com/dude_its_debraj" target="blank" > #X id
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
- 
-  
-  <a href="mailto:kar1debraj10@gmail.com"> #Mail id
+</a>
+
+<a href="mailto:karansounak@gmail.com"> 
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</a>
   
 
   <br>
@@ -37,15 +32,12 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -53,30 +45,57 @@
 <h1 align="center">Projects</h1>
 
 ### 💼 Best project
-A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
-- **Features**: Add income, add expenses, view total expenses, view balance, view expenses by category, reset budget.
-- **Technologies**: Python
+The Face Recognition Student Management System automates and streamlines student attendance tracking using advanced face recognition technology, enhancing efficiency and accuracy while providing secure and real-time attendance data.
+- **Features**:
+  <ol>
+    <li>Automated Attendance Tracking</li>
+    <li>Real-Time Monitoring</li>
+    <li>Secure Database Management</li>
+    <li>User-Friendly Interface</li>
+  </ol>
+- **Technologies**:
+ <ul>
+  <li>Python: Core programming language for development.</li>
+  <li>OpenCV: For image processing and face recognition.</li>
+  <li>MySQL: Database management for storing student data and attendance records.</li>
+  <li>Tkinter: For developing the desktop user interface.</li>
+</ul>
 
-### 💼 Smart Bank Account Manager
-A Python application to manage bank accounts with functionalities like creating an account, depositing, withdrawing money, and checking balance.
-- **Features**: Create account, deposit money, withdraw money, check balance, user login system.
-
-### 💼 Best project
-A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
-- **Features**: Add income, add expenses, view total expenses, view balance, view expenses by category, reset budget.
-- **Technologies**: Python
-
-
+### 💼 Breast Cancer Detection Using AI
+Breast cancer detection leverages advanced AI and deep learning technologies to enhance diagnostic accuracy and efficiency. This project focuses on utilizing these cutting-edge methods to analyze mammography images and provide consistent and reliable results.
+- **Features**:
+<ol>
+  <li>Automated Image Analysis:</li>
+  <ul>
+    <li>Reduces dependence on human radiologists for initial screenings.</li>
+    <li>High Accuracy</li>
+  </ul>
+  <li>High Accuracy:</li>
+  <ul>
+    <li>Employs DenseNet201 for precise differentiation between benign and malignant cases.</li>
+    <li>Minimizes false-positive and false-negative rates.</li>
+  </ul>
+  <li>Efficient Processing:</li>
+  <ul>
+    <li>Rapid analysis of large datasets.</li>
+    <li>Real-time processing for timely decision-making.</li>
+  </ul>
+  <li>Scalability:</li>
+  <ul>
+    <li>Easily deployable across various healthcare settings.</li>
+    <li>Adaptable to different imaging modalities.</li>
+  </ul>
+</ol>
+  
 
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
 
-
 -----
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@996debraj"#gh-dark-mode-only">
+    <a href="https://wakatime.com/@c7adb48a-9066-48b7-aa72-7a8277a22f7f"#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsDebraj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 
 
