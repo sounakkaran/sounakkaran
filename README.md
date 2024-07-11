@@ -44,7 +44,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h1 align="center">Projects</h1>
 
-### 💼 Best project
+### 💼 Face Recognition Student Management System
 The Face Recognition Student Management System automates and streamlines student attendance tracking using advanced face recognition technology, enhancing efficiency and accuracy while providing secure and real-time attendance data.
 - **Features**:
   <ol>
