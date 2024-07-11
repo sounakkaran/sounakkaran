@@ -86,6 +86,16 @@ Breast cancer detection leverages advanced AI and deep learning technologies to 
     <li>Adaptable to different imaging modalities.</li>
   </ul>
 </ol>
+
+- **Technologies**:
+  <ul>
+    <li>Deep Learning Model: DenseNet201</li>
+    <li>Programming Language: Python</li>
+    <li>Libraries and Frameworks: TensorFlow, Keras, OpenCV, scikit-image</li>
+    <li>Data Handling: pandas for data manipulation</li>
+    <li>Visualization: seaborn and matplotlib for data visualization</li>
+    <li>Image Processing: albumentations for augmentation, cv2 for preprocessing</li>
+  </ul>
   
 
 
