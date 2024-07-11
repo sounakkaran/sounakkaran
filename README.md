@@ -1,55 +1,36 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Ramesh+Chandra's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Sounak+Karan's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
-## Hi there I'm Rameshchandra Pola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+## Hi there I'm Sounak Karan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
 > **Well done is better than Well said**💪
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on Frontend projects
+- 🌱 I’m currently learning React and MongoDB and Python and JavaScipt. 
+- 🔭 I’m currently working on Frontend projects, Data Scienece & ML projects.
+- 🤞 A self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+- 😎 Winner @ [ Ai unite hackathon]
 
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/rameshchandrapola/" target="blank" >
+<a href="https://www.linkedin.com/in/debraj-kar/" target="blank" > #linkdin iD
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/POLARAMESHCHAN2" target="blank" >
+<a href="https://x.com/dude_its_debraj" target="blank" > #X id
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://rameshchandra22.hashnode.dev/">
-    <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
-    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:pola.rameshchandra22@gmail.com">
+ 
+  
+  <a href="mailto:kar1debraj10@gmail.com"> #Mail id
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dev.to/rameshchandrapola">
-    <img align="left"src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-
-  <br>
-  <br>
   
- ## My Blogs
-<oi>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/top-15-vs-code-extensions-for-web-development"><strong>Top 15 VS Code Extensions For Web Development</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/getting-started-with-github-pages"><strong>Getting started with GitHub pages</strong></a></li>
-  <li>
-<a href="https://rameshchandra22.hashnode.dev/css-gradient-the-ultimate-tool"><strong>CSS Gradient: The Ultimate Tool</strong></a></li>
-    <li>
-<a href="https://rameshchandra22.hashnode.dev/19-tips-to-google-like-a-pro"><strong>19 tips to Google like a pro</strong></a></li>
-      <li>
-<a href="https://rameshchandra22.hashnode.dev/53-new-shortcuts-to-perform-new-actions-in-one-step"><strong>53 new shortcuts to perform new actions in one step</strong></a></li>
 
-  </oi>
-<br>
+  <br>
+  <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  ## Languages and Tools:
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,7 +38,6 @@
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -69,46 +49,45 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1 align="center">Projects</h1>
+
+### 💼 Best project
+A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
+- **Features**: Add income, add expenses, view total expenses, view balance, view expenses by category, reset budget.
+- **Technologies**: Python
+
+### 💼 Smart Bank Account Manager
+A Python application to manage bank accounts with functionalities like creating an account, depositing, withdrawing money, and checking balance.
+- **Features**: Create account, deposit money, withdraw money, check balance, user login system.
+
+### 💼 Best project
+A Python-based budget tracking application that allows users to add income, categorize expenses, and get a financial overview.
+- **Features**: Add income, add expenses, view total expenses, view balance, view expenses by category, reset budget.
+- **Technologies**: Python
 
 
 
-<br>
-<!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
- <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
-  
-   <p align="center" >
- <a href="#"><img alt="Rameshchandrapola's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-  <p align="center" >
- <a href="#"><img  alt="Rameshchandrapola's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
-<a href="#"><img alt="Rameshchandrapola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-----
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@996debraj"#gh-dark-mode-only">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsDebraj&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
 
-<!-- 
-<table><td valign="top" width="50%">
- -->
-<!-- </td><td valign="top" width="50%"> -->
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
-<!-- </td></table>   -->
 
-<h2 align="center">My Trending Repos 💻</h2>
- <p align='center'>
-  <a href="https://github.com/Rameshchandrapola/Webdev-Projects"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Webdev-Projects&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/Rameshchandrapola/Team-Dijkstra_Hackx"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Team-Dijkstra_Hackx&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-<a href="https://github.com/Rameshchandrapola/LeetCode"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=LeetCode&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-  <a href="https://github.com/Rameshchandrapola/Codeforces"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Codeforces&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
-    <a href="https://github.com/Rameshchandrapola/Rameshchandrapola"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Rameshchandrapola&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<!-- activity graph heroku-app end -->
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aits-Debraj+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsDebraj&theme=github_dark&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AitsDebraj+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsDebraj&theme=github&utcOffset=4"  width="31%"  productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AitsDebraj+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsDebraj&theme=github_dark&hide_border=true"  width="64%" profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AitsDebraj+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsDebraj&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
-<br>
-<a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square)
-
-  ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
